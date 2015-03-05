@@ -1,0 +1,1 @@
+Phoca Product Book Module is Joomla! CMS extension. Module which displays products in module position.
