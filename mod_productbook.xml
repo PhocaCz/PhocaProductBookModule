@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<mosinstall type="module">
+	<name>Phoca-Productbook-Module</name>
+	<author>Jan Pavelka</author>
+	<creationDate>12/03/2008</creationDate>
+	<copyright>Jan Pavelka (www.phoca.cz)</copyright>
+	<license>GNU/GPL</license>
+	<authorEmail>info@phoca.cz</authorEmail>
+	<authorUrl>http://www.phoca.cz</authorUrl>
+	<version>1.2.0 beta</version>
+	<description>Phoca - Productbook Module</description>
+	<files>
+		<filename module="mod_productbook">mod_productbook.php</filename>
+	</files>
+	<files component="com_productbook">
+		<filename>icon-li.gif</filename>
+		<filename>icon-minus.gif</filename>
+		<filename>icon-plus.gif</filename>
+		<filename>icon-spacer.gif</filename>
+	</files>
+	<params>
+	</params>
+</mosinstall>
